@@ -40,7 +40,7 @@
 
 <div>
 
-<img align="left" height="230px" src="https://github-readme-stats.vercel.app/api?username=pedrohfz&theme=shadow_red&text_color=FFF">
-<img align="right" height="230px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pedrohfz&theme=shadow_red&text_color=FFF">
+<img align="left" height="210px" src="https://github-readme-stats.vercel.app/api?username=pedrohfz&theme=shadow_red&text_color=FFF">
+<img align="right" height="210px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pedrohfz&theme=shadow_red&text_color=FFF">
 
 </div>

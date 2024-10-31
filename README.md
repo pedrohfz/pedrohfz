@@ -2,7 +2,8 @@
 
 ## Sobre mim
 
-- 🎓 Cursando **Sistemas de Informação** no <a ref="https://www.mackenzie.br/universidade/sao-paulo-higienopolis">Mackenzie</a>.
+- 🏛️ Técnico em **Desenvolvimento de Sistemas** na <a href="https://etecraposotavares.cps.sp.gov.br/">Etec Raposo Tavares</a>.
+- 🎓 Cursando **Sistemas de Informação** no <a href="https://www.mackenzie.br/universidade/sao-paulo-higienopolis">Mackenzie</a>.
 - 🔭 Atualmente, estou participando do bootcamp: **GFT Start #6 - Lógica de Programação** na <a href="https://web.dio.me/home">DIO</a>.
 - 🌱 Estudando **Python/Power BI/SQL**.
 

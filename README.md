@@ -41,7 +41,7 @@
 
 <div>
 
-<img align="left" height="190px" src="https://github-readme-stats.vercel.app/api?username=pedrohfz&theme=shadow_red&text_color=FFF">
-<img align="right" height="190px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pedrohfz&theme=shadow_red&text_color=FFF">
+<img align="left" height="160px" src="https://github-readme-stats.vercel.app/api?username=pedrohfz&theme=shadow_red&text_color=FFF">
+<img align="right" height="160px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pedrohfz&theme=shadow_red&text_color=FFF">
 
 </div>

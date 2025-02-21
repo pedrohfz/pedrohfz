@@ -4,8 +4,8 @@
 
 - 🏛️ Técnico em **Desenvolvimento de Sistemas** na <a href="https://etecraposotavares.cps.sp.gov.br/">Etec Raposo Tavares</a>.
 - 🎓 Cursando **Sistemas de Informação** no <a href="https://www.mackenzie.br/universidade/sao-paulo-higienopolis">Mackenzie</a>.
-- 🔭 Atualmente, estou participando do bootcamp: **GFT Start #6 - Lógica de Programação** na <a href="https://web.dio.me/home">DIO</a>.
-- 🌱 Estudando **Python/Power BI/SQL**.
+- 🔭 Atualmente, estou participando do bootcamp: **Decola Tech 2025** na <a href="https://web.dio.me/home">DIO</a>.
+- 🌱 Estudando **Java/Angular/Spring/SQL**.
 
 ## Habilidades
 

@@ -3,7 +3,7 @@
 ## Sobre mim
 
 - 🏛️ Técnico em **Desenvolvimento de Sistemas** na <a href="https://etecraposotavares.cps.sp.gov.br/">Etec Raposo Tavares</a>.
-- 🎓 Cursando **Sistemas de Informação** no <a href="https://www.mackenzie.br/universidade/sao-paulo-higienopolis">Mackenzie</a>.
+- 🎓 Cursando o 4º semestre de **Sistemas de Informação** no <a href="https://www.mackenzie.br/universidade/sao-paulo-higienopolis">Mackenzie</a>.
 - 💻 **Estagiário** de Engenharia de Software no <a href="https://www.itau.com.br">Itaú Unibanco</a>.
 - 🔭 Atualmente, realizando o curso: **Aprenda Golang do Zero! Desenvolva uma APLICAÇÃO COMPLETA!** na <a href="https://www.udemy.com">Udemy</a>.
 - 🌱 Estudando **Golang/AWS**.
@@ -44,6 +44,7 @@
 
 <div>
 
-<img align="left" height="160px" src="https://github-readme-stats.vercel.app/api?username=pedrohfz&theme=shadow_red&text_color=FFF">
+<img height="160px" src="https://github-readme-stats.vercel.app/api?username=pedrohfz&theme=shadow_red&text_color=FFF">
+<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohfz&theme=shadow_red&text_color=FFF">
 
 </div>

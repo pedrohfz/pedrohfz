@@ -21,7 +21,7 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Java](https://img.shields.io/badge/java-111?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-111?style=for-the-badge&logo=python&logoColor=3776AB)
+![Python](https://img.shields.io/badge/python-111?style=for-the-badge&logo=python&logoColor=306998)
 ![Golang](https://img.shields.io/badge/Go-111?style=for-the-badge&logo=go&logoColor=29BEB0)
 
 **Bibliotecas e Frameworks**

@@ -44,7 +44,7 @@
 
 <div>
 
-<img height="160px" src="https://github-readme-stats.vercel.app/api?username=pedrohfz&theme=shadow_red&text_color=FFF">
-<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohfz&theme=shadow_red&text_color=FFF">
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=pedrohfz&theme=shadow_red&text_color=FFF">
+<img height="200px" width ="300px "src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohfz&theme=shadow_red&text_color=FFF">
 
 </div>

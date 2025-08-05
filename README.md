@@ -7,6 +7,7 @@
 - 💻 **Estagiário** de Engenharia de Software no <a href="https://www.itau.com.br">Itaú Unibanco</a>.
 - 🔭 Atualmente, realizando o curso: **Aprenda Golang do Zero! Desenvolva uma APLICAÇÃO COMPLETA!** na <a href="https://www.udemy.com">Udemy</a>.
 - 🌱 Estudando **Golang/AWS**.
+- 📋 TODO: **Desenvolver API CRUD em Go utilizando apenas recursos nativos da linguagem (net/http, encoding/json, godotenv, mux)**.
 
 ## Habilidades
 

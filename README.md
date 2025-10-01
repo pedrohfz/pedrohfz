@@ -5,9 +5,9 @@
 - 🏛️ Técnico em **Desenvolvimento de Sistemas** na <a href="https://etecraposotavares.cps.sp.gov.br/">Etec Raposo Tavares</a>.
 - 🎓 Cursando o 4º semestre de **Sistemas de Informação** no <a href="https://www.mackenzie.br/universidade/sao-paulo-higienopolis">Mackenzie</a>.
 - 💻 **Estagiário** de Engenharia de Software no <a href="https://www.itau.com.br">Itaú Unibanco</a>.
-- 🔭 Atualmente, realizando o curso: **Aprenda Golang do Zero! Desenvolva uma APLICAÇÃO COMPLETA!** na <a href="https://www.udemy.com">Udemy</a>.
-- 🌱 Estudando **Golang/AWS**.
-- 📋 TODO: **Desenvolver API CRUD em Go utilizando apenas recursos nativos da linguagem (net/http, encoding/json, godotenv, mux)**.
+- 🔭 Atualmente, realizando o curso: **Certificação Amazon AWS Certified Cloud Practitioner CLF-C02** na <a href="https://www.udemy.com">Udemy</a>.
+- 🌱 Estudando **AWS**.
+- 📋 TODO: **Tirar a Certificação: AWS Certified Cloud Practitioner**.
 
 ## Habilidades
 

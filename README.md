@@ -29,6 +29,7 @@
 
 ![React](https://img.shields.io/badge/react-111?style=for-the-badge&logo=React&logoColor=61DAFB)
 ![Gin-Gonic](https://img.shields.io/badge/gin-111?style=for-the-badge&logo=gin&logoColor=008ECF)
+![Go-Fiber](https://img.shields.io/badge/fiber-111?style=for-the-badge&logo=Lightning&logoColor=235572)
 
 **Banco de Dados**<br>
 

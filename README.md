@@ -3,7 +3,7 @@
 ## Sobre mim
 
 - 🏛️ Técnico em **Desenvolvimento de Sistemas** na <a href="https://etecraposotavares.cps.sp.gov.br/">Etec Raposo Tavares</a>.
-- 🎓 Cursando o 4º semestre de **Sistemas de Informação** no <a href="https://www.mackenzie.br/universidade/sao-paulo-higienopolis">Mackenzie</a>.
+- 🎓 Cursando o 5º semestre de **Sistemas de Informação** no <a href="https://www.mackenzie.br/universidade/sao-paulo-higienopolis">Mackenzie</a>.
 - 💻 **Estagiário** de Engenharia de Software no <a href="https://www.itau.com.br">Itaú Unibanco</a>.
 - 🔭 Atualmente, realizando o curso: **Certificação Amazon AWS Certified Cloud Practitioner CLF-C02** na <a href="https://www.udemy.com">Udemy</a>.
 - 🌱 Estudando **AWS**.
@@ -41,14 +41,5 @@
 ![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/insomnia-111?style=for-the-badge&logo=insomnia&logoColor=4000BF)
-
-</div>
-
-<br>
-
-<div>
-
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=pedrohfz&theme=shadow_red&text_color=FFF">
-<img height="200px" width ="300px "src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohfz&theme=shadow_red&text_color=FFF">
 
 </div>

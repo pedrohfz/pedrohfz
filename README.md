@@ -25,11 +25,16 @@
 ![Python](https://img.shields.io/badge/python-111?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Go](https://img.shields.io/badge/Go-111?style=for-the-badge&logo=go&logoColor=00ADD8)
 
-**Bibliotecas e Frameworks**
+**Bibliotecas e Frameworks**<br>
 
 ![React](https://img.shields.io/badge/react-111?style=for-the-badge&logo=React&logoColor=61DAFB)
+![Spring](https://img.shields.io/badge/spring-111?style=for-the-badge&logo=spring&logoColor=6DB33F)
 ![Gin-Gonic](https://img.shields.io/badge/gin-111?style=for-the-badge&logo=gin&logoColor=008ECF)
 ![Go-Fiber](https://img.shields.io/badge/fiber-111?style=for-the-badge&logo=Lightning&logoColor=235572)
+
+**Cloud Computing Service**<br>
+
+![AWS](https://img.shields.io/badge/AWS-111?style=for-the-badge&logo=icloud&logoColor=FF9900)
 
 **Banco de Dados**<br>
 
@@ -40,6 +45,7 @@
 
 ![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-111?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Insomnia](https://img.shields.io/badge/insomnia-111?style=for-the-badge&logo=insomnia&logoColor=4000BF)
 
 </div>

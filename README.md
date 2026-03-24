@@ -1,13 +1,10 @@
-<div>
-
 ## Sobre mim
 
 - 🏛️ Técnico em **Desenvolvimento de Sistemas** na <a href="https://etecraposotavares.cps.sp.gov.br/">Etec Raposo Tavares</a>.
 - 🎓 Cursando o 5º semestre de **Sistemas de Informação** no <a href="https://www.mackenzie.br/universidade/sao-paulo-higienopolis">Mackenzie</a>.
 - 💻 **Estagiário** de Engenharia de Software no <a href="https://www.itau.com.br">Itaú Unibanco</a>.
-- 🔭 Atualmente, realizando o curso: **Certificação Amazon AWS Certified Cloud Practitioner CLF-C02** na <a href="https://www.udemy.com">Udemy</a>.
-- 🌱 Estudando **AWS**.
-- 📋 TODO: **Tirar a Certificação: AWS Certified Cloud Practitioner**.
+- 🔭 Atualmente, realizando o curso: **Java COMPLETO: Do Zero ao Profissional + Projetos!** na <a href="https://www.udemy.com">Udemy</a>.
+- 🌱 Aprofundando meus conhecimentos em **Java, SpringBoot, JPA**.
 
 ## Habilidades
 
@@ -49,3 +46,9 @@
 ![Insomnia](https://img.shields.io/badge/insomnia-111?style=for-the-badge&logo=insomnia&logoColor=4000BF)
 
 </div>
+
+
+## Minhas Badges
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->

@@ -50,4 +50,4 @@
 
 ## Badges
 
-<a href="https://www.credly.com/badges/1650fe70-6671-4d72-8391-523261207e88"><img src="https://images.credly.com/size/120x120/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner badge image. Certification. Foundational level. Issued by Amazon Web Services Training and Certification" width="120" height="120"></a>
+<a href="https://www.credly.com/badges/1650fe70-6671-4d72-8391-523261207e88"><img src="https://images.credly.com/size/150x150/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner badge image. Certification. Foundational level. Issued by Amazon Web Services Training and Certification"></a>

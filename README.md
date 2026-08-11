@@ -1,11 +1,11 @@
 ## Sobre mim
 
-- 🏛️ Técnico em **Desenvolvimento de Sistemas** na <a href="https://etecraposotavares.cps.sp.gov.br/">Etec Raposo Tavares</a>.
-- 🎓 Cursando o 5º semestre de **Sistemas de Informação** no <a href="https://www.mackenzie.br/universidade/sao-paulo-higienopolis">Mackenzie</a>.
-- 💻 **Engenheiro de Software Junior** no <a href="https://www.itau.com.br">Itaú Unibanco</a>.
-- 🔭 Atualmente, realizando o curso: **Java COMPLETO: Do Zero ao Profissional + Projetos!** na <a href="https://www.udemy.com">Udemy</a>.
-- 🌱 Aprofundando meus conhecimentos em **Java, SpringBoot, JPA**.
-- 📚 Estudando **DataDog**.
+- 🏛️ Técnico em **Desenvolvimento de Sistemas** pela <a href="https://etecraposotavares.cps.sp.gov.br/">Etec Raposo Tavares</a>.
+- 🎓 Cursando o 6º semestre de **Sistemas de Informação** no <a href="https://www.mackenzie.br/universidade/sao-paulo-higienopolis">Mackenzie</a>.
+- 💻 **Software Engineer** no <a href="https://www.itau.com.br">Itaú Unibanco</a>.
+- 🌱 Aprofundando meus conhecimentos em **Java e Inteligência Artificial**.
+- 🤖 Me preparando para a certificação **AWS Certified AI Practitioner (AIF-C01)**.
+- 🚀 Apaixonado por **Engenharia de Software**, com foco em **Back-end, APIs, Cloud e Inteligência Artificial**.
 
 ## Habilidades
 
